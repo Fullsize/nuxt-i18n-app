@@ -4,6 +4,7 @@
       {{ $t("welcome") }}
     </h1>
     <p>This is the home page content</p>
+    <p>{{ formatCurrency(123456789) }}</p>
   </div>
 </template>
 
@@ -22,4 +23,5 @@ useHead({
     { property: "og:description", content: t("home") },
   ],
 });
+const { formatCurrency } = useCurrency();
 </script>
