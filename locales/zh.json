@@ -1,8 +1,11 @@
 {
   "welcome": "欢迎使用 Nuxt3 i18n 应用",
   "about": "关于",
+  "about.content": "这是关于页面的内容",
   "home": "首页",
   "users": "用户",
+  "users.detail": "用户 {id}",
+  "users.content": "这是用户详情页面的内容",
   "footer": {
     "copyright": "© 2024 Nuxt3 i18n 应用"
   },

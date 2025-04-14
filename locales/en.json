@@ -1,8 +1,11 @@
 {
   "welcome": "Welcome to Nuxt3 i18n App",
   "about": "About",
+  "about.content": "This is the about page content",
   "home": "Home",
   "users": "Users",
+  "users.detail": "User {id}",
+  "users.content": "This is the user detail page",
   "footer": {
     "copyright": "© 2024 Nuxt3 i18n App"
   },
