@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="container">
     <header>
       <nav>
         <NuxtLink to="/">{{ $t("home") }}</NuxtLink>
@@ -15,7 +15,7 @@
         </div>
       </nav>
     </header>
-    <main>
+    <main class="main">
       <slot />
     </main>
     <footer>

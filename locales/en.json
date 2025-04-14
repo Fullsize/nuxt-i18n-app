@@ -1,0 +1,39 @@
+{
+  "welcome": "Welcome to Nuxt3 i18n App",
+  "about": "About",
+  "home": "Home",
+  "users": "Users",
+  "footer": {
+    "copyright": "© 2024 Nuxt3 i18n App"
+  },
+  "item": {
+    "one": "item",
+    "other": "items"
+  },
+  "message": {
+    "one": "You have {count} message",
+    "other": "You have {count} messages"
+  },
+  "apple": {
+    "one": "apple",
+    "other": "apples"
+  },
+  "currency": {
+    "format": {
+      "style": "currency",
+      "currency": "USD"
+    }
+  },
+  "date": {
+    "format": {
+      "short": "MM/dd/yyyy",
+      "long": "MMMM d, yyyy"
+    }
+  },
+  "time": {
+    "format": {
+      "short": "h:mm a",
+      "long": "h:mm:ss a"
+    }
+  }
+}
